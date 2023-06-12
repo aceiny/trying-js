@@ -1,0 +1,121 @@
+*{
+    background-color: #232123;
+    color: white;
+}
+#head {
+    text-align: center;
+}
+.di{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+#title {
+    position: relative;
+    top: -10px;
+    width: 1600px;
+    height: 50px;
+    font-size: 29px;
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.t {
+position: relative;
+width: 305px;
+height: 50px;
+margin: 5px;
+font-size: 20px;
+font-family :'Courier New', Courier, monospace;
+border-radius: 15px;
+}
+
+.cat{
+    position: relative;
+    margin: 5px;
+    width: 1600px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#crtbtn {
+    position: relative;
+    width: 1600px;
+    font-size: 20px;
+    font-family :'Courier New', Courier, monospace;
+    height: 50px;
+    color: white;
+    border-radius: 15px;
+    background-color: #2a0765;
+    border: solid black 1px;
+}
+.crtbtnn {
+    position: relative;
+    width: 1600px;
+    font-size: 20px;
+    font-family :'Courier New', Courier, monospace;
+    height: 50px;
+    color: white;
+    border-radius: 15px;
+    background-color: #2a0765;
+    border: solid black 1px;
+    display: none;
+}
+#srchtit{
+    position: relative;
+    left: -78px;
+    width: 720px;
+    font-size: 20px;
+    font-family :'Courier New', Courier, monospace;
+    height: 50px;
+    color: white;
+    border-radius: 15px;
+    background-color: #2a0765;
+    border: solid black 1px;
+}
+#srchcat{    position: relative;
+    left: 78px;
+    width: 720px;
+    font-size: 20px;
+    font-family :'Courier New', Courier, monospace;
+    height: 50px;
+    color: white;
+    border-radius: 15px;
+    background-color: #2a0765;
+    border: solid black 1px;}
+.nav {
+    list-style: none;
+}
+.nav td {
+padding: 10px 50px;
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+
+}
+hr {
+    width: 1600px;
+}
+#total {
+    font-size: 20px;
+    font-family :'Courier New', Courier, monospace;
+    height: 50px;
+    color: white;
+    border-radius: 15px;
+    background-color: #2a0765;
+    border: solid black 1px;
+    text-align: left;
+}
+.btnn { 
+    width: 110px;
+    font-size: 20px;
+    font-family :'Courier New', Courier, monospace;
+    height: 50px;
+    color: white;
+    border-radius: 15px;
+    background-color: #2a0765;
+    border: solid black 1px;
+}
+.btnn:hover { 
+    background-color: #855bcd;
+}
